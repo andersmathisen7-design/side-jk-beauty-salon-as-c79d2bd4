@@ -1,0 +1,15 @@
+# Jk Beauty Salon AS
+
+- Bransje: Frisering og barbering
+- Sted: Ski
+- E-post: post@j-kbeauty.no
+- Telefon: 908 00 086
+
+## Tjenester
+
+- Frisering: Klipp og styling tilpasset håret ditt og det du ønsker.
+- Barbering: Barbering og stell av skjegg, gjort med ro og presisjon.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
